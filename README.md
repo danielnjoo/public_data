@@ -3,7 +3,7 @@
 For use in personal projects.
 
 ## ICOW Data
-217 observations of countries across 15 variables:
+This data set currently includes the basic colonial history of each state that was a member of the COW interstate system between 1816-2014. It includes 217 observations of countries across 15 variables, which are each described below. This was downloaded from [here](http://www.paulhensel.org/icowcol.html). Please do not download this data directly, as it may be out of date; instead, download it directly from the linked website.
 
 1. __State:__ COW Country Code
 *  The COW country code for the state.
